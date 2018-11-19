@@ -1,33 +1,27 @@
 # Lodeg
 
 ## Introdução
-Este documento representa a visão de um sistema web para reserva de hospedagem, feito para avaliação na disciplina de Programação Web, orientado pela professora Jane Dirce.
+Este documento representa a visão de um sistema web para reserva de hospedagem, feito para obter nota das aula pratica na disciplina de Programação Web, orientado pela professora Jane Dirce.
 
 
 ### Academicos
--Lana Liz de B Pereira
--Marcos F Lino
--Matheus
+- Lana Liz de B Pereira
+- Marcos Paulo L Ferreira
+- Matheus
 
-### Resultados
-A ferramenta responde às seguintes questões:
-1. Mussum Ipsum, cacilds vidis litro abertis. Posuere libero 
-2. Mussum Ipsum, cacilds vidis litro abertis. Posuere libero  
-3. Si num tem leite então bota uma pinga aí cumpadi! 
 
-### Pre-Requisitos
-- Navegador
-- JAVA
-- XYZ
+### Tecnologias Utilizadas
+- IDE Netbeans, pacote completo
+- Navegador da sua preferência
+- Pacote Java
 
-### Configuração do ambiente
-- Instale o PHP
-- Instale o JAVA
-- Configure a VM, A configuração poderá ser baixada em
- ```
-	git clone 
- ```
-- Clone este repositorio
+
+### Repositorios
+- Documentação, com o templante de requisitos e os diagramas referente ao projeto
+- Código fonte, pacotes de código com os arquivos responsáveis por gerar a aplição web
+
+ 
+### Clone este repositorio
  ```
 	git clone https://github.com/MarcosFerreiraLF/Lodge.git 
  ```
