@@ -1,4 +1,4 @@
-# Lodeg
+# Lodge
 
 ## Introdução
 Este documento representa a visão de um sistema web para reserva de hospedagem, feito para obter nota das aula pratica na disciplina de Programação Web, orientado pela professora Jane Dirce.
