@@ -5,9 +5,9 @@ Este documento representa a visão de um sistema web para reserva de hospedagem,
 
 
 ### Academicos
-- Lana Liz de B Pereira
-- Marcos Paulo L Ferreira
-- Matheus
+- Lana Liz de B Pereira - Documentação
+- Marcos Paulo L Ferreira - Desenvolvimento
+- Matheus Albuquerque - Desenvolvimento
 
 
 ### Tecnologias Utilizadas
@@ -25,4 +25,4 @@ Este documento representa a visão de um sistema web para reserva de hospedagem,
  ```
 	git clone https://github.com/MarcosFerreiraLF/Lodge.git 
  ```
-- Baixe e descompacte os dados para popular o banco de dados [newsdata.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) 
+
