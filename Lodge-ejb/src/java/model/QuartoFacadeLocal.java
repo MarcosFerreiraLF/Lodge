@@ -10,25 +10,23 @@ import javax.ejb.Local;
 
 /**
  *
- * @author 201619030381
+ * @author mathe
  */
 @Local
-public interface UsuarioFacadeLocal {
+public interface QuartoFacadeLocal {
 
-    void create(Usuario usuario);
+    void create(Quarto quarto);
 
-    void edit(Usuario usuario);
+    void edit(Quarto quarto);
 
-    void remove(Usuario usuario);
+    void remove(Quarto quarto);
 
-    Usuario find(Object id);
+    Quarto find(Object id);
 
-    List<Usuario> findAll();
+    List<Quarto> findAll();
 
-    List<Usuario> findRange(int[] range);
+    List<Quarto> findRange(int[] range);
 
     int count();
-
-    public Usuario findByLogin(String login);
     
 }

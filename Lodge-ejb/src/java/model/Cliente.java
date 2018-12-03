@@ -6,50 +6,42 @@
 package model;
 
 import java.io.Serializable;
-import javax.persistence.Column;
+import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.Table;
 
 /**
  *
- * @author 201619030381
+ * @author mathe
  */
-@Entity @Table(name = "TB_USER")
-public class Usuario implements Serializable {
+@Entity
+public class Cliente implements Serializable {
 
     private static final long serialVersionUID = 1L;
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     
-    @Column(name = "US_NOME", length = 180, nullable = false)
-    private String nome;
-    
-   @Column( name = "US_LOGIN", length = 30, unique = true, nullable = false)   
-    private String login;
-   
-   @Column(name = "US_SENHA", length = 20, nullable = false)
-    private String senha;
+   //private boolean login;
+   private String nome;
+   private String login;
+   private String endereco;
+   private String senha;
+   private Date nasc = new Date();
 
-    public Usuario() {
+    public Cliente() {
     }
-    
-    /**
-     * Constrói um objeto Usuário sem id. o id será gerado automaticamente
-     * ao salvar o objeto no banco de dados.
-     * @param nome - nome do usuário
-     * @param login - login do usuário
-     * @param senha - senha do usuário (nesta versão não está criptografada)
-     */
-    public Usuario(String nome, String login, String senha) {
+
+    public Cliente(String nome, String login, String endereco, String senha) {
         this.nome = nome;
         this.login = login;
+        this.endereco = endereco;
         this.senha = senha;
+       // this.nasc = nasc;
     }
-    
+
     public String getNome() {
         return nome;
     }
@@ -66,6 +58,14 @@ public class Usuario implements Serializable {
         this.login = login;
     }
 
+    public String getEndereco() {
+        return endereco;
+    }
+
+    public void setEndereco(String endereco) {
+        this.endereco = endereco;
+    }
+
     public String getSenha() {
         return senha;
     }
@@ -74,6 +74,16 @@ public class Usuario implements Serializable {
         this.senha = senha;
     }
 
+    public Date getNasc() {
+        return nasc;
+    }
+
+    public void setNasc(Date nasc) {
+        this.nasc = nasc;
+    }
+   
+
+   
     public Long getId() {
         return id;
     }
@@ -92,10 +102,10 @@ public class Usuario implements Serializable {
     @Override
     public boolean equals(Object object) {
         // TODO: Warning - this method won't work in the case the id fields are not set
-        if (!(object instanceof Usuario)) {
+        if (!(object instanceof Cliente)) {
             return false;
         }
-        Usuario other = (Usuario) object;
+        Cliente other = (Cliente) object;
         if ((this.id == null && other.id != null) || (this.id != null && !this.id.equals(other.id))) {
             return false;
         }
@@ -104,7 +114,7 @@ public class Usuario implements Serializable {
 
     @Override
     public String toString() {
-        return "model.Usuario[ id=" + id + " ]";
+        return "model.Cliente[ id=" + id + " ]";
     }
     
 }

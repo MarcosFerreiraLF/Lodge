@@ -21,7 +21,7 @@ referência de autoria.
 
         <p>${mensagem}</p>
 
-        <a href="${pageContext.request.contextPath}/lista">Lista de Usuários</a>
+        <!--<a href="${pageContext.request.contextPath}/lista">Lista de Usuários</a>-->
         <a href="${pageContext.request.contextPath}/inicio">Voltar à página inicial</a>
     </body>
 </body>

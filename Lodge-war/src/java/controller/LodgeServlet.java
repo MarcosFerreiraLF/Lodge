@@ -217,4 +217,3 @@ public class LodgeServlet extends HttpServlet {
     }
     
 }
-
