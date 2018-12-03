@@ -33,7 +33,7 @@ public class TrivagaServlet extends HttpServlet {
             throws ServletException, IOException {
         String jsp = null;
 
-        if (request.getRequestURI().endsWith("/inicio")) {
+        if (request.getRequestURI().endsWith("/home")) {
             jsp = "home.jsp";
         }
 
