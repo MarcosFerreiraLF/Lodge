@@ -1,4 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/EstabelecimentoFacade.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Cartao.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Quarto.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/EstabelecimentosManagerLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Estabelecimento.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ClienteManagerLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ClienteManager.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ReservaFacadeLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ReservaFacade.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/CartaoFacade.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/QuartoFacadeLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Cliente.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/CartaoFacadeLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Reserva.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ClienteFacade.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/EstabelecimentoFacadeLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/EstabelecimentosManager.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Pagamento.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/PagamentoFacadeLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ClienteFacadeLocal.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/PagamentoFacade.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/conf/META-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/AbstractFacade.java</file>
+            <file>file:/C:/Users/mathe/Documents/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/QuartoFacade.java</file>
+        </group>
+    </open-files>
 </project-private>
