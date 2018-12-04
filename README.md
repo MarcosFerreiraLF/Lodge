@@ -17,7 +17,7 @@ Este documento representa a visão de um sistema web para reserva de hospedagem,
 
 
 ### Repositorios
-- Documentação, com o templante de requisitos e os diagramas referente ao projeto
+- Documentação, com o template de requisitos e os diagramas referente ao projeto
 - Código fonte, pacotes de código com os arquivos responsáveis por gerar a aplição web
 
  
