@@ -7,8 +7,8 @@ O sistema está na sua terceira versão.
 
 ### Academicos
 - Lana Liz de B Pereira - Documentação
-- Marcos Paulo L Ferreira - Desenvolvimento (Front-end)
-- Matheus Albuquerque - Desenvolvimento (Back-end)
+- Marcos Paulo L Ferreira - Desenvolvimento (Back-end)
+- Matheus Albuquerque - Desenvolvimento (Front-end)
 
 
 ### Tecnologias Utilizadas
