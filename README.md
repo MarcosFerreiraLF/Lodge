@@ -3,17 +3,19 @@
 ## Introdução
 Este documento representa a visão de um sistema web para reserva de hospedagem, feito para obter nota das aula pratica na disciplina de Programação Web, orientado pela professora Jane Dirce.
 
+O sistema está na sua terceira versão.
 
 ### Academicos
 - Lana Liz de B Pereira - Documentação
-- Marcos Paulo L Ferreira - Desenvolvimento
-- Matheus Albuquerque - Desenvolvimento
+- Marcos Paulo L Ferreira - Desenvolvimento (Front-end)
+- Matheus Albuquerque - Desenvolvimento (Back-end)
 
 
 ### Tecnologias Utilizadas
 - IDE Netbeans, pacote completo
 - Navegador da sua preferência
-- Pacote Java
+- Pacote Java EE
+
 
 
 ### Repositorios
