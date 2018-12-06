@@ -1,0 +1,13 @@
+insert into estabelecimento values 
+(1,'Hotel Jandaia', 'R. Barão do Rio Branco, 1271'),
+(2,'Hotel Deville Prime', 'Av. Mato Grosso, 4250'),
+(3,'Hotel Concord', 'Av. Calógeras, 1624');
+
+
+insert into quarto values 
+(1, 'suite de cobertura, duas camas', 1, '02',280),
+(2, 'suite de primeiro andar, duas camas', 1, '01',250),
+(3, 'suite de primeiro andar, duas camas', 2, '01',150),
+(4, 'suite de cobertura, uma cama', 2, '02',160),
+(5, 'suite de cobertura, duas camas', 3, '02',200),
+(6, 'suite de primeiro andar, uma cama', 3, '01',120);
