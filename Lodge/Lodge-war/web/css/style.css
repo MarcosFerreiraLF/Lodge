@@ -1,0 +1,128 @@
+
+
+   
+/*Tamanho da imagem de fundo*/
+
+
+@import url('https//fonts.googleapis.com/css?family=Raleway');
+@import url('https//fonts.googleapis.com/css?family=Oswald');
+
+
+
+
+
+/*Caracteristicas do background da página */
+ body{
+     
+	font-family: 'Raleway',sans-serif;
+	font-size: 70%;
+        background: url(../imagens/n1.jpg)no-repeat center top;
+        background-size: cover;
+        background-attachment:fixed;
+}
+
+
+ .navegador{
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    max-width: none;
+}
+
+.botao {
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    padding: 100px 20px;
+    color: #036A81;
+    
+     
+}
+
+.botao a{
+    
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    line-height: 28px;
+    text-align: center;
+    margin: 20px 0 0;
+    border-radius: 9px;
+    padding: 10px 20px;
+    border: solid 3px;
+    background: rgba(0, 0, 0, 0.51);
+}
+
+
+
+
+/*Caracteristicas da página principal*/
+.principal {
+   padding-top: 50px;
+    
+}
+
+/*Caracteristicas do " Bem-Vindo"*/
+.principal h1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    color:#ffffff;
+    font-size:3em;
+    margin-bottom: 2em;
+    text-transform:uppercase;
+    
+    
+}
+
+/*Caracteristicas do " O qué é o travelers"*/
+.subConteudo h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: #fff;
+    
+    
+}
+/*Caracteristicas do tipo p*/
+.subConteudo p {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    line-height: 28px;
+    text-align: center;
+    margin: 20px 0 0;
+}
+
+
+/*Caracteristicas do pedaço de conteudo*/
+.subConteudo {
+    border-style: solid;
+    border-radius: 9px;
+    border-color: #ffffff;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.51);
+    
+}
+
+
+
+/*Caracteristicas do tipo p na parte do conteudo*/
+.conteudo p {
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+    line-height: 2;
+    
+}
+
+
+
+
+
+
+
+
+
+

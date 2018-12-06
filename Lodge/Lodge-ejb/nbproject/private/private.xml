@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ClienteFacadeLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/QuartoFacadeLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/EstabelecimentosManagerLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/EstabelecimentosManager.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/QuartoManager.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ClienteManager.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ClienteManagerLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/EstabelecimentoFacadeLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Reserva.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Cliente.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ReservaManager.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ReservaFacadeLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Quarto.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/ReservaManagerLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/Estabelecimento.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/QuartoManagerLocal.java</file>
+            <file>file:/C:/Users/marco/OneDrive/Documentos/NetBeansProjects/Lodge/Lodge-ejb/src/java/model/QuartoFacade.java</file>
+        </group>
+    </open-files>
+</project-private>
