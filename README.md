@@ -22,6 +22,9 @@ O sistema está na sua quarta versão.
 - Documentação, com o template de requisitos e os diagramas referente ao projeto
 - Código fonte, pacotes de código com os arquivos responsáveis por gerar a aplição web
 
+### Observações
+-Para ultilizar o sistema é necessário cadastrar manualmente quartos e estabelecimentos
+-cadastro e as reservas é feito no próprio site web
  
 ### Clone este repositorio
  ```
